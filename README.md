@@ -40,6 +40,6 @@ python -m visualize.render_mesh --input_path ./results/In_an_intense_boxing_matc
 
 After corresponding OBJ files for generated in P1 and P2 folders, you can install and use our blender addon to load the interaction animations in blender and render them. You can follow our following repository fot [CoShMDM-Blender-Addon](https://github.com/AliManjotho/CoShMDM-Blender-Addon.git).
 
-![teaser](./assets/addon-1.png)
-![teaser](./assets/addon-2.png)
-![teaser](./assets/addon-3.png)
+![teaser](./git-assets/addon-1.png)
+![teaser](./git-assets/addon-2.png)
+![teaser](./git-assets/addon-3.png)
